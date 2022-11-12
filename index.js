@@ -67,7 +67,7 @@ Challenge:
     if(tweetInput.value){
         tweetsData.unshift({
             handle: `@Stallone`,
-            profilePic: `images/Sly.jpeg`,
+            profilePic: `images/Sly.png`,
             likes: 0,
             retweets: 0,
             tweetText: tweetInput.value,
