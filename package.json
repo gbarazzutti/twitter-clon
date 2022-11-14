@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "twitterClon",
   "dependencies": {},
   "devDependencies": {
     "vite": "latest"
